@@ -1,3 +1,4 @@
+![logo512](https://user-images.githubusercontent.com/69678869/110778424-6149ab80-8273-11eb-973e-f098539fcef5.png)
 [Max_resume.pdf](https://github.com/MaxReact/admin.github.io/files/6122490/Max_resume.pdf)
 # Getting Started with Create React App
 
