@@ -1,4 +1,4 @@
-Wait until the gif opens
+Wait until the gif opens (the project was not deployed due to server failure)
 ![admin_panel_video](https://user-images.githubusercontent.com/69678869/110838380-6fb7b780-82b3-11eb-80f8-56c2f0d5f8ef.gif)
 
 # Getting Started with Create React App
